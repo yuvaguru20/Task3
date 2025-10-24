@@ -1,1 +1,3 @@
 # Task3
+
+I built an interactive dashboard focused on tracking primary metrics like Sales using KPI visuals (Created New Measures like sales target and applied in target), while also displaying key summary figures such as Gross Sales and Profit on Card visuals. A Multi-Row Card was incorporated to show detailed, related metrics in a compact format. For interactivity, I implemented both a list slicer for the 'Segment' category and a button slicer for 'Country', enabling dynamic filtering. Finally, I conducted time-series analysis by charting 'Units Sold' over 'Date', which also includes a page-level filter for 'Country' to isolate regional trends.
